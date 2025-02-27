@@ -1,4 +1,4 @@
-# Excalifraw
+# SketchSphere
 
 Excalifraw is a fast, collaborative, and lightweight drawing tool built with modern web technologies. Designed for speed and ease of use, Excalifraw enables teams to sketch, ideate, and share diagrams in real-time.
 
