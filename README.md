@@ -1,6 +1,6 @@
 # SketchSphere
 
-Excalifraw is a fast, collaborative, and lightweight drawing tool built with modern web technologies. Designed for speed and ease of use, Excalifraw enables teams to sketch, ideate, and share diagrams in real-time.
+SketchSphere is a fast, collaborative, and lightweight drawing tool built with modern web technologies. Designed for speed and ease of use, SketchSphere enables teams to sketch, ideate, and share diagrams in real-time.
 
 ## 🚀 Features
 
@@ -16,7 +16,7 @@ Excalifraw is a fast, collaborative, and lightweight drawing tool built with mod
 This project is managed using TurboRepo, ensuring optimized builds and caching across workspaces.
 
 ```
-excalifraw/
+SketchSphere/
 ├── apps/
 │   ├── web/        # Frontend application
 │   ├── server/     # Backend API
@@ -37,8 +37,8 @@ Ensure you have **Node.js 18+** and **pnpm** installed.
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-org/excalifraw.git
-cd excalifraw
+git clone https://github.com/your-org/SketchSphere.git
+cd SketchSphere
 
 # Install dependencies
 pnpm install
