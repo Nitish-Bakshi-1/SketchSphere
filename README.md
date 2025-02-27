@@ -37,7 +37,7 @@ Ensure you have **Node.js 18+** and **pnpm** installed.
 
 ```sh
 # Clone the repository
-git clone https://github.com/your-org/SketchSphere.git
+git clone https://github.com/Nitish-Bakshi-1/SketchSphere.git
 cd SketchSphere
 
 # Install dependencies
